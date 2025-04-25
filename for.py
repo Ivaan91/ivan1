@@ -9,7 +9,7 @@
 # for i in range(10):
 # print(num,"x",i+1,"=", (i+1)*num)
 
-cant=int(input("Ingrese el numeros de notas"))
+cant=int(input("Ingrese el numeros de notas6"))
 suma=0
 for i in range(cant):
     print("Ingrese la nota", i+1)
