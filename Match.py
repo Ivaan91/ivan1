@@ -1,4 +1,5 @@
 # uso y explicacion de match
+import random
 
 def suma():
     n1=int(input("Ingrese un numero "))
@@ -50,5 +51,13 @@ def calculadora():
             case 5:
                 print("Saliendo")
                 break
+            case _:
+                print("Opcion INVALIDA")
+
 
 calculadora()
+
+def azarN():
+    num=random.randint(1,5)
+    return num
+print(azarN()*10)
