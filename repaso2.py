@@ -1,7 +1,7 @@
 # Respaso de toda la unida 2 incluye,
 # if, if else, if elif, while, for, match try except
 
-# # Uso y manejo de try except dentro de un bucle while
+# Uso y manejo de try except dentro de un bucle while
 # while True:
 #     try:
 #         num=int(input("ingrese un numero: "))
